@@ -4,7 +4,7 @@
     "Description": "Wit brood - tarwe & soja",
     "Category": "Brood",
     "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/wit_boerenbrood_klein_00001.jpg?itok=AXz9_rSL",
-    "Allergens": [False, True, False, False, False, False, False, False, True, False, False],
+    "Allergens": [false, true, false, false, false, false, false, false, true, false, false],
     "Price": "2,05"
   },
   {
@@ -12,7 +12,7 @@
     "Description": "Wit brood - tarwe & soja",
     "Category": "Brood",
     "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/wit_boerenbrood_groot_00001.jpg?itok=UuX8e7KV",
-    "Allergens": [False, True, False, False, False, False, False, False, True, False, False],
+    "Allergens": [false, true, false, false, false, false, false, false, true, false, false],
     "Price": "2,85"
   },
   {
@@ -20,7 +20,7 @@
     "Description": "Wit brood - tarwe & soja",
     "Category": "Brood",
     "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/wit_platine_klein_00001.jpg?itok=8XoYKgB2",
-    "Allergens": [False, True, False, False, False, False, False, False, True, False, False],
+    "Allergens": [false, true, false, false, false, false, false, false, true, false, false],
     "Price": "2,05"
   },
   {
@@ -28,7 +28,7 @@
     "Description": "Wit brood - tarwe & soja",
     "Category": "Brood",
     "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/wit_platine_groot_00006.jpg?itok=Kvbi06FV",
-    "Allergens": [False, True, False, False, False, False, False, False, True, False, False],
+    "Allergens": [false, true, false, false, false, false, false, false, true, false, false],
     "Price": "2,85"
   },
   {
@@ -36,7 +36,7 @@
     "Description": "Wit brood - tarwe & soja",
     "Category": "Brood",
     "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/wit_galet_klein_00001.jpg?itok=drlQZyv8",
-    "Allergens": [False, True, False, False, False, False, False, False, True, False, False],
+    "Allergens": [false, true, false, false, false, false, false, false, true, false, false],
     "Price": "2,05"
   }
 ]
