@@ -38,5 +38,37 @@
     "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/wit_galet_klein_00001.jpg?itok=drlQZyv8",
     "Allergens": [false, true, false, false, false, false, false, false, true, false, false],
     "Price": "2,05"
+  },
+  {
+    "Name": "Notenbrood",
+    "Description": "Lichtgrof brood - tarwe, haver, rogge, soja, hazelnoten, lijnzaad, zonnebloempitten, krenten, abrikozen, veenbessen…,
+    "Category": "Brood",
+    "Image": https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/notenbrood_00008test.jpg?itok=8Dr7_ZvO",
+    "Allergens": [false, true, true, false, true, false, false, false, true, false, true],
+    "Price": "4,40"
+  },
+  {
+    "Name": "Hollands bruintje pistolet",
+    "Description": "Volgraan, water, vloeibare gist, zout...",
+    "Category": "Pistolets",
+    "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/hollands_bruintje_pistolet_00002.jpg?itok=Q7DRv86m",
+    "Allergens": [false, true, false, true, false, false, false, true, true, false, false],
+    "Price": "0,80"
+  },
+  {
+    "Name": "Stokbrood mini wit",
+    "Description": "Tarwebloem, water, vloeibare gist, zout...",
+    "Category": "Pistolets",
+    "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/stokbrood_wit_00003.jpg?itok=IV4eGYow",
+    "Allergens": [false, true, false, false, false, false, false, false, false, false, false],
+    "Price": "1,45"
+  },
+  {
+    "Name": "Stokbrood fitness",
+    "Description": "Tarwebloem, volgraan, water, vloeibare gist, zout...",
+    "Category": "Brood",
+    "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/00000165_stokbrood_fitness.jpg?itok=nmYUzHdd",
+    "Allergens": [false, true, false, false, false, false, false, true, true, false, false],
+    "Price": "2,25"
   }
 ]
