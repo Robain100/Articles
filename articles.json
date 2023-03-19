@@ -41,7 +41,7 @@
   },
   {
     "Name": "Notenbrood",
-    "Description": "Lichtgrof brood - tarwe, haver, rogge, soja, hazelnoten, lijnzaad, zonnebloempitten, krenten, abrikozen, veenbessen…,
+    "Description": "Lichtgrof brood - tarwe, haver, rogge, soja, hazelnoten, lijnzaad, zonnebloempitten, krenten, abrikozen, veenbessen…,"
     "Category": "Brood",
     "Image": "https://bakkerijaernoudt.be/sites/default/files/styles/wide/public/2022-05/notenbrood_00008test.jpg?itok=8Dr7_ZvO",
     "Allergens": [false, true, true, false, true, false, false, false, true, false, true],
